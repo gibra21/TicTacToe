@@ -1,0 +1,16 @@
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\bin\Debug\net8.0-windows\TicTacToePracticeeeee.exe
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\bin\Debug\net8.0-windows\TicTacToePracticeeeee.deps.json
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\bin\Debug\net8.0-windows\TicTacToePracticeeeee.runtimeconfig.json
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\bin\Debug\net8.0-windows\TicTacToePracticeeeee.dll
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\bin\Debug\net8.0-windows\TicTacToePracticeeeee.pdb
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.Form1.resources
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.csproj.GenerateResource.cache
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.AssemblyInfoInputs.cache
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.AssemblyInfo.cs
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.csproj.CoreCompileInputs.cache
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.dll
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\refint\TicTacToePracticeeeee.dll
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.pdb
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\TicTacToePracticeeeee.genruntimeconfig.cache
+C:\Users\gibra\source\repos\Interview Practice SWE\TicTacToePracticeeeee\TicTacToePracticeeeee\obj\Debug\net8.0-windows\ref\TicTacToePracticeeeee.dll
